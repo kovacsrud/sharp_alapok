@@ -1,0 +1,6 @@
+D:\csharp_proj\sharp_alapok\nap_1b\bin\Debug\nap_1b.exe.config
+D:\csharp_proj\sharp_alapok\nap_1b\bin\Debug\nap_1b.exe
+D:\csharp_proj\sharp_alapok\nap_1b\bin\Debug\nap_1b.pdb
+D:\csharp_proj\sharp_alapok\nap_1b\obj\Debug\nap_1b.csprojResolveAssemblyReference.cache
+D:\csharp_proj\sharp_alapok\nap_1b\obj\Debug\nap_1b.exe
+D:\csharp_proj\sharp_alapok\nap_1b\obj\Debug\nap_1b.pdb
