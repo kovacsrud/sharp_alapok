@@ -15,6 +15,21 @@ namespace nap_1
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Hello Tanfolyam!");
+			//A C# szigorúan típusos nyelv
+			//Primitív változók deklarálása
+			//
+			int a;
+			int b;
+			
+			//Értékadás
+			a=10;
+			b=22;
+			
+			//Az értékek kiíratása
+			Console.WriteLine("a:{0},b:{1}",a,b);
+			
+			
+			
 									
 			Console.ReadKey(true);
 		}
