@@ -12,6 +12,9 @@ namespace nap_1b
 {
 	class Program
 	{
+		//felsorolt típus deklarálása
+		enum autok { Audi , Volvo, Citroen };
+		
 		public static void Main(string[] args)
 		{
 			//összetettebb adatszerkezetek
@@ -26,6 +29,8 @@ namespace nap_1b
 			tomb1[0]=118;
 			tomb2[0]='g';
 			
+			//felsorolt típus használata
+			autok auto=autok.Audi;
 			
 			
 			Console.ReadLine();
