@@ -25,6 +25,14 @@ namespace nap_1
 			a=10;
 			b=22;
 			
+			//A C# teljesen objektum-orientált, akár így is létre
+			//lehet hozni változókat 
+			Int32 c=new Int32(); //osztály példányosítása
+			c=134;
+			
+			
+			
+			
 			//előjel nélküli 8 bites változó
 			byte bajt;
 			
@@ -34,7 +42,7 @@ namespace nap_1
 			//változó létrehozása a var kulccsszóval
 			//a fordító automatikusan a megfelelő típust fogja
 			//a változóhoz rendelni
-			var c=129;
+			var c2=129;
 			
 			//lebegőpontos változó
 			
