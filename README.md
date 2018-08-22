@@ -1,2 +1,2 @@
-# sharp_alapok
-c# első alkalom
+C# alapok, első alkalom
+
