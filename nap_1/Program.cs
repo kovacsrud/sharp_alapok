@@ -17,7 +17,7 @@ namespace nap_1
 			Console.WriteLine("Hello Tanfolyam!");
 			//A C# szigorúan típusos nyelv
 			//Primitív változók deklarálása
-			//
+			//32 bites előjeles egész
 			int a;
 			int b;
 			
@@ -25,10 +25,38 @@ namespace nap_1
 			a=10;
 			b=22;
 			
+			//előjel nélküli 8 bites változó
+			byte bajt;
+			
 			//Az értékek kiíratása
 			Console.WriteLine("a:{0},b:{1}",a,b);
 			
+			//változó létrehozása a var kulccsszóval
+			//a fordító automatikusan a megfelelő típust fogja
+			//a változóhoz rendelni
+			var c=129;
 			
+			//lebegőpontos változó
+			
+			double l2;
+						
+			l2=51.33;
+			
+			//karakter típusú változó
+			char kar;
+			//értékadás a karakteres változónak
+			kar='e';
+			
+			//szöveges változó tárolása
+			String szoveg="sharp-developer";
+
+			//két lépésben is lehet
+			String szoveg2;
+			szoveg2="sharpdev";
+			
+			//logikai változó, true vagy false értéke lehet
+			bool igaz;
+			igaz=false; 
 			
 									
 			Console.ReadKey(true);
