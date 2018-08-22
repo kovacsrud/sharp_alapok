@@ -31,7 +31,7 @@ namespace nap_1b
 			
 			//felsorolt típus használata
 			autok auto=autok.Audi;
-			
+			Console.WriteLine(auto);
 			
 			Console.ReadLine();
 		}
