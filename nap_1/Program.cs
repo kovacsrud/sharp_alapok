@@ -38,6 +38,7 @@ namespace nap_1
 			
 			//Az értékek kiíratása
 			Console.WriteLine("a:{0},b:{1}",a,b);
+			Console.WriteLine("a:{0},b:{1}",a,b);
 			
 			//változó létrehozása a var kulccsszóval
 			//a fordító automatikusan a megfelelő típust fogja
